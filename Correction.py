@@ -32,5 +32,7 @@ for i in range(n):
 #print(x)
 print(list)
 plt.plot(x,list)
+plt.show()
+
 
 #以上で添削を終わります。必要に応じて連絡・質問を受け付けます。
